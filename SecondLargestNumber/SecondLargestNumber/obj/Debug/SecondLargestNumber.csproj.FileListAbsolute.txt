@@ -1,0 +1,8 @@
+C:\Users\91720\Desktop\project\SecondLargestNumber\SecondLargestNumber\bin\Debug\SecondLargestNumber.exe.config
+C:\Users\91720\Desktop\project\SecondLargestNumber\SecondLargestNumber\bin\Debug\SecondLargestNumber.exe
+C:\Users\91720\Desktop\project\SecondLargestNumber\SecondLargestNumber\bin\Debug\SecondLargestNumber.pdb
+C:\Users\91720\Desktop\project\SecondLargestNumber\SecondLargestNumber\obj\Debug\SecondLargestNumber.csproj.AssemblyReference.cache
+C:\Users\91720\Desktop\project\SecondLargestNumber\SecondLargestNumber\obj\Debug\SecondLargestNumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\91720\Desktop\project\SecondLargestNumber\SecondLargestNumber\obj\Debug\SecondLargestNumber.csproj.CoreCompileInputs.cache
+C:\Users\91720\Desktop\project\SecondLargestNumber\SecondLargestNumber\obj\Debug\SecondLargestNumber.exe
+C:\Users\91720\Desktop\project\SecondLargestNumber\SecondLargestNumber\obj\Debug\SecondLargestNumber.pdb
